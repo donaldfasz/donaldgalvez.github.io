@@ -1,0 +1,55 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="donaldgalvez.com" resolutions="1x" timestamp="1509345443952">
+  <folder name="css">
+    <file name="site_global.css" crc="4275521114"/>
+    <file name="subscribe.css" crc="58040760" ref="subscribe"/>
+    <file name="index.css" crc="4075484499" ref="index"/>
+    <file name="portfolio.css" crc="320697875" ref="portfolio"/>
+    <file name="commerce.css" crc="4102956510" ref="commerce"/>
+    <file name="contact.css" crc="4019741732" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="move---fade-2015.mulib" crc="46123179" seo="true" mt="1458192921000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:contact:subscribe:commerce"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portfolio:contact:subscribe:commerce"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:contact:subscribe:commerce"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:portfolio:contact:subscribe:commerce"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio:contact:subscribe:commerce"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:portfolio:contact:subscribe:commerce"/>
+    <file name="require.js" crc="4157109226" ref="index:portfolio:contact:subscribe:commerce"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc_3797.jpg" crc="4172740169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:contact:subscribe:commerce"/>
+    <file name="dsc_4221.jpg" crc="4163703708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_9820.jpg" crc="3823595547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_4240.jpg" crc="3828901984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo.svg" crc="341896154" seo="true" ref="index:portfolio:contact:subscribe:commerce">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="commerce" alt=""/>
+      <caption webpage="subscribe" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="387163612" ref="index"/>
+  </folder>
+  <file name="index.html" crc="166734711" seo="true" mt="1509332086729" redirect="true"/>
+  <file name="portfolio.html" crc="316521532" seo="true" mt="1509332078131" redirect="true"/>
+  <file name="contact.html" crc="6953576" seo="true" mt="1509332230360" redirect="true"/>
+  <file name="subscribe.html" crc="4006129228" seo="true" mt="1509332155090" redirect="true"/>
+  <file name="commerce.html" crc="343765368" seo="true" mt="1509332111012" redirect="true"/>
+</manifest>
